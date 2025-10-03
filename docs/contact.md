@@ -4,4 +4,6 @@
 
 **LinkedIn:** https://www.linkedin.com/in/pmeerholz/
 
-**GitHub:** https://github.com/PedroMeerholz
+---
+
+*Última atualização: 03/10/2025*
