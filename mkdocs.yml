@@ -1,1 +1,31 @@
-site_name: My Docs
+site_name: Pedro Vinícius Meerholz
+site_description: Portfólio de Pedro Vinícius Meerholz - Cientista de Dados
+site_author: Pedro Vinícius Meerholz
+site_url: https://pedromeerholz.github.io/profile/
+
+nav:
+  - Home: index.md
+  - Formação Acadêmica: about.md
+  - Habilidades: skills.md
+  - Projetos: projects.md
+  - Hackatons: hackatons.md
+  - Artigos: articles.md
+  - Contato: contact.md
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - python
+    - javascript
+    - yaml
+    - markdown
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - codehilite
+  - fenced_code
+  - attr_list
+  - admonition
